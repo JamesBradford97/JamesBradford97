@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JamesBradford97
+- 👋 Hi, I’m @JamesBradford97, I'm a PhD student at the University of South Australia and a web developer. 
 - 👀 I’m interested in web development using HTML, CSS, JS and PhP.
 - 🌱 I’m currently learning mastering front-end frameworks starting with React.
 - 💞️ I’m looking to collaborate on any interesting projects that involves my skillset.
